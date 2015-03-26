@@ -11,8 +11,8 @@ public class Main {
 	System.out.println("Result");
 	//----- Add elements --------
 	System.out.println("---Add elements ----"); 
-	LinkedList<Integer> linkedList = new LinkedList<Integer>(); 
-	ArrayList<Integer> arrayList = new ArrayList<Integer>(); 
+	List<Integer> linkedList = new LinkedList<Integer>(); 
+	List<Integer> arrayList = new ArrayList<Integer>(); 
 	int value =123456; 
 	//--- ArrayList
 	Date startAddArrayListTime = new Date(); 
